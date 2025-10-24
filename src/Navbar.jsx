@@ -10,7 +10,7 @@ export const Navbar = () => {
             <div className="navbar bg-primary text-primary-content px-4">
                 <div className="flex-1">
                     <a className="btn btn-ghost text-xl" href="/">
-                        <LogoIcon />
+                        <img src="public/favicon.ico" alt="Logo" />
                         EcoBite</a>
                 </div>
                 <div className="flex-none space-x-4 mx-8">
