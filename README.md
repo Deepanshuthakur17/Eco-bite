@@ -120,12 +120,20 @@ eco-bite/
 ---
 
 <div align="center">
-<h2 style="background: linear-gradient(90deg,#22c55e,#06b6d4); -webkit-background-clip: text; color: transparent;">📬 Connect with Me</h2>
-<p align="center">
-  <a href="https://deepanshu-thakur-portfolio.vercel.app/" target="_blank">🌐 Portfolio</a> |
-  <a href="https://www.linkedin.com/in/deepanshu-thakur-1ab5a4330" target="_blank">💼 LinkedIn</a> |
-  <a href="https://github.com/Deepanshuthakur17" target="_blank">🐙 GitHub</a>
-</p>
+  <h2>📬 Connect with Me</h2>
+  <p align="center">
+    <a href="https://deepanshu-thakur-portfolio.vercel.app/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="48" height="48" style="margin: 0 10px;" />
+    </a>
+    <a href="https://www.linkedin.com/in/deepanshu-thakur-1ab5a4330" target="_blank">
+      <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48" height="48" style="margin: 0 10px;" />
+    </a>
+    <a href="https://github.com/Deepanshuthakur17" target="_blank">
+      <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48" style="margin: 0 10px;" />
+    </a>
+  </p>
+</div>
+
 
 <p align="center">
 ⭐ If you like this project, consider giving it a star on GitHub!  
