@@ -1,0 +1,5 @@
+@import "tailwindcss";
+@plugin "daisyui";
+.active {
+  @apply bg-[#22c55e] text-[black] border-black rounded-lg;
+}
