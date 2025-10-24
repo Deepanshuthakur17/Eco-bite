@@ -83,7 +83,7 @@ export const Mainsection = () => {
                     <h1
                         ref={h1Ref}
                         // Adjusted text size for better mobile display
-                        className="text-white text-3xl sm:text-5xl md:text-6xl lg:text-7xl font-black tracking-normal"
+                        className="text-white inline-flex text-3xl sm:text-5xl md:text-6xl lg:text-7xl font-black tracking-normal"
                     >
                         Taste Sustainability
                     </h1>
