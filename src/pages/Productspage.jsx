@@ -9,7 +9,7 @@ export default function Productspage() {
 
       <main className="flex-1 px-6 sm:px-10 lg:px-20 xl:px-40 py-12">
         <div className="max-w-7xl mx-auto">
-          <div className="text-center mb-12">
+          <div className="text-center mb-12 mt-8">
             <h1 className="text-4xl md:text-5xl font-bold text-[white] tracking-tight">
               Our Edible Products
             </h1>
