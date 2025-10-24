@@ -90,7 +90,7 @@ export const Mainsection = () => {
                     <p
                         className="text-white/80 text-base sm:text-lg md:text-xl max-w-xl sm:max-w-2xl tracking-wide"
                     >
-                        EcoBites offers a range of edible cups, spoons, and plates, crafted from natural ingredients, designed to reduce waste and enhance your dining experience.
+                        EcoBite offers a range of edible cups, spoons, and plates, crafted from natural ingredients, designed to reduce waste and enhance your dining experience.
                     </p>
                     <Link
                         to="/product"

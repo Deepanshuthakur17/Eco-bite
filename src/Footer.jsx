@@ -32,7 +32,7 @@ export const Footer = () => {
         <div className="flex flex-col gap-4 items-start max-w-sm">
           <div className="flex items-center gap-3 text-white">
             <LogoIcon />
-            <h2 className="text-xl font-bold leading-tight tracking-[-0.015em]">EcoBites</h2>
+            <h2 className="text-xl font-bold leading-tight tracking-[-0.015em] uppercase">EcoBite</h2>
           </div>
           <p className="text-zinc-400">
             Taste Sustainability. Join us in reducing waste with our delicious, edible tableware.
@@ -62,7 +62,7 @@ export const Footer = () => {
         </div>
       </div>
       <div className="mt-12 pt-8 border-t border-zinc-800 text-center text-zinc-500">
-        <p>© 2025 EcoBites. All rights reserved.</p>
+        <p>© {new Date().getFullYear()} <span className='uppercase'>EcoBite.</span> All rights reserved.</p>
       </div>
     </footer>
   );

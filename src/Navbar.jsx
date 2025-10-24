@@ -50,14 +50,14 @@ export const Navbar = () => {
                 {/* Logo and Branding */}
                 <div className="flex-1">
                     {/* Adjusted className from the second component to match the first's structure */}
-                    <Link to="/" className="btn btn-ghost text-xl">
-                        <img src="/favicon.ico" alt="Logo" className="h-6 w-6 inline-block mr-2" />
+                    <Link to="/" className="btn btn-ghost text-xl uppercase font-bold">
+                        <img src="/favicon.ico" alt="Logo"/>
                         EcoBite
                     </Link>
                 </div>
 
                 {/* Desktop Menu - Hidden on small screens */}
-                <div className="hidden md:flex flex-none space-x-4 mx-8 items-center">
+                <div className="hidden md:flex flex-none space-x-4 mx-8 items-center uppercase">
                     <NavLink to="/" className="btn btn-ghost">Home</NavLink>
                     <NavLink to="/product" className="btn btn-ghost">Products</NavLink>
                     <NavLink to="/about" className="btn btn-ghost">About</NavLink>
