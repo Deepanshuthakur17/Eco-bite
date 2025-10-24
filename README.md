@@ -57,7 +57,7 @@
 npm install
 npm run dev
 </pre>
-<p>Then open <a href="http://localhost:3000" target="_blank"><strong>http://localhost:3000</strong></a> in your browser.</p>
+<p>Then open <a href="http://localhost:5173" target="_blank"><strong>http://localhost:5173</strong></a> in your browser.</p>
 </div>
 
 ---
@@ -65,7 +65,7 @@ npm run dev
 <div align="center">
 <h2 style="background: linear-gradient(90deg,#22c55e,#06b6d4); -webkit-background-clip: text; color: transparent;">📂 Folder Structure</h2>
 <pre align="left">
-eco-bite-beta/
+eco-bite/
 ├── public/
 │   ├── assets/
 │   └── favicon.ico
@@ -85,10 +85,10 @@ eco-bite-beta/
 
 <div align="center">
 <h2 style="background: linear-gradient(90deg,#06b6d4,#16a34a); -webkit-background-clip: text; color: transparent;">📸 Screenshots</h2>
-<h3>🌞 Light Mode</h3>
-<img src="https://i.ibb.co/kX0Xj1f/eco-light.jpg" alt="Light Mode Screenshot" width="295" height="641">
-<h3>🌙 Dark Mode</h3>
-<img src="https://i.ibb.co/tLYYN4s/eco-dark.jpg" alt="Dark Mode Screenshot" width="295" height="641">
+<h3>Home Screen</h3>
+<img src="https://i.ibb.co/7dVC2CRx/eco-bite-ss1.jpg" alt="Light Mode Screenshot" width="295" height="641">
+<h3>Toggle Mode</h3>
+<img src="https://i.ibb.co/LFx9fZ8/eco-bite-ss2.jpg" alt="Dark Mode Screenshot" width="295" height="641">
 </div>
 
 ---
