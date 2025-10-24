@@ -86,9 +86,9 @@ eco-bite/
 <div align="center">
 <h2 style="background: linear-gradient(90deg,#06b6d4,#16a34a); -webkit-background-clip: text; color: transparent;">📸 Screenshots</h2>
 <h3>Home Screen</h3>
-<img src="https://i.ibb.co/7dVC2CRx/eco-bite-ss1.jpg" alt="Light Mode Screenshot" width="295" height="641">
+<img src="https://i.ibb.co/7dVC2CRx/eco-bite-ss1.jpg" alt="Home Screen Screenshot" width="295" height="641">
 <h3>Toggle Mode</h3>
-<img src="https://i.ibb.co/LFx9fZ8/eco-bite-ss2.jpg" alt="Dark Mode Screenshot" width="295" height="641">
+<img src="https://i.ibb.co/LFx9fZ8/eco-bite-ss2.jpg" alt="Toggle Mode Screenshot" width="295" height="641">
 </div>
 
 ---
