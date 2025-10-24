@@ -1,4 +1,4 @@
-<h1 align="center">🌱 Eco-Bite Beta – Sustainable Eating Web App</h1>
+<h1 align="center">🌱 Eco-Bite – Sustainable Eating Web App</h1>
 
 <p align="center">
   <a href="https://eco-bite-beta.vercel.app/" target="_blank">
@@ -94,15 +94,6 @@ eco-bite-beta/
 ---
 
 <div align="center">
-<h2 style="background: linear-gradient(90deg,#06b6d4,#22c55e); -webkit-background-clip: text; color: transparent;">🌗 Dark & Light Mode</h2>
-<p>The design automatically adjusts for dark and light themes for better accessibility and comfort.</p>
-<p><strong>Light Mode:</strong> Bright and clean for daylight usage.</p>
-<p><strong>Dark Mode:</strong> Soothing dark tones for night browsing.</p>
-</div>
-
----
-
-<div align="center">
 <h2 style="background: linear-gradient(90deg,#16a34a,#06b6d4); -webkit-background-clip: text; color: transparent;">🧩 Key Highlights</h2>
 <ul align="left">
   <li>🌍 Promotes awareness about sustainable eating</li>
@@ -124,13 +115,6 @@ eco-bite-beta/
   <li>Push the branch: <code>git push origin feature/YourFeature</code></li>
   <li>Open a Pull Request</li>
 </ol>
-</div>
-
----
-
-<div align="center">
-<h2 style="background: linear-gradient(90deg,#06b6d4,#16a34a); -webkit-background-clip: text; color: transparent;">🧾 License</h2>
-<p>This project is licensed under the <strong>MIT License</strong>.</p>
 </div>
 
 ---
